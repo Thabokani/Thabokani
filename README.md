@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Thabokani
 - 🌱 I’m currently learning.
+- 🌱 I’m building.
 
 
 <!---
